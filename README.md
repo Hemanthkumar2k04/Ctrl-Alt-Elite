@@ -1,4 +1,4 @@
-# Ctrl-Alt-Elite
+# Ctrl-Alt-Elite </br>
 **A smart AI-based solution for traffic management**
 **Background:** Urban areas often face significant traffic congestion, especially at intersections where multiple routes converge. Traditional traffic management systems rely on pre-set traffic light timings, which may not adapt well to fluctuating traffic conditions. This can lead to increased waiting times, fuel consumption, and emissions. 
 **Description:** An AI-based traffic management system can dynamically adjust traffic light timings based on real-time traffic data, improving traffic flow and reducing congestion. 
